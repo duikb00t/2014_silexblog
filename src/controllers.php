@@ -2,7 +2,7 @@
 $app->match('/', function(\Symfony\Component\HttpFoundation\Request $request) use ($app){
 
     /* Load the main template file. */
-    return $app['twig']->render('home.html.twig', array());
+    return $app['twig']->render('layouts/layout.html.twig', array());
 
 })->bind('home');
 
