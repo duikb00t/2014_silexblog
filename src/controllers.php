@@ -3,9 +3,12 @@
  * Setting up some basic routing.
  *
  */
-$app->get('/home', function() use($app) {
+$app->get('/', function() use($app) {
+    return $app['twig']->render('home.html.twig', array());
+});
 
-   return $app['twig']->render('home.html.twig', array());
+$app->get('home', function() use($app) {
+    return $app['twig']->render('home.html.twig', array());
 });
 
 
