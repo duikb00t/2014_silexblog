@@ -22,71 +22,88 @@
     <favorites_list name="2014_silexblog" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="23" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="controllers.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/controllers.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="3" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="567">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="autoload.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="351">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="composer.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="31" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="621">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.html.twig" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/layouts/layout.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="6" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="291" selection-end="291" vertical-scroll-proportion="-9.642858" vertical-offset="0" max-vertical-offset="540">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html.twig" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/views/home.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="19" selection-start="12" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="868">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="vertical" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/web/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="8" column="23" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="controllers.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/controllers.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="7" column="58" selection-start="152" selection-end="152" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="autoload.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="351">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="composer.json" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/composer.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="5" column="31" selection-start="153" selection-end="153" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="621">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="app.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/app.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="11" column="58" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="home.html.twig" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/resources/views/home.html.twig">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="1" column="30" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="297">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="layout.html.twig" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/resources/views/layout.html.twig">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="5" column="23" selection-start="141" selection-end="141" vertical-scroll-proportion="0.32846716" vertical-offset="0" max-vertical-offset="918">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/web/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="8" column="23" selection-start="143" selection-end="143" vertical-scroll-proportion="0.24825986" vertical-offset="109" max-vertical-offset="540">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -100,20 +117,20 @@
         <option value="$PROJECT_DIR$/assets/js/jquery-1.11.1.js" />
         <option value="$PROJECT_DIR$/resources/assets/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/src/app.php" />
-        <option value="$PROJECT_DIR$/resources/views/layout.html.twig" />
         <option value="$PROJECT_DIR$/web/index.php" />
         <option value="$PROJECT_DIR$/vendor/silex/silex/src/Silex/Provider/TwigServiceProvider.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/home.html.twig" />
-        <option value="$PROJECT_DIR$/src/controllers.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/layout.html.twig" />
+        <option value="$PROJECT_DIR$/src/controllers.php" />
         <option value="$PROJECT_DIR$/resources/views/home.html.twig" />
+        <option value="$PROJECT_DIR$/resources/views/layout.html.twig" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="789" />
-    <option name="y" value="310" />
+    <option name="x" value="114" />
+    <option name="y" value="124" />
     <option name="width" value="1677" />
     <option name="height" value="960" />
   </component>
@@ -257,28 +274,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2014_silexblog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2014_silexblog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -324,6 +319,9 @@
     <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resources/views" />
       <recent name="$PROJECT_DIR$/resources/views/templates" />
@@ -356,7 +354,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="789" y="310" width="1677" height="960" extended-state="6" />
+    <frame x="114" y="124" width="1677" height="960" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -418,13 +416,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/layout.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="50" selection-start="149" selection-end="149" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="702">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="116" selection-end="116" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="540">
@@ -476,6 +467,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="58" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="907">
@@ -483,9 +481,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app.php">
+    <entry file="file://$PROJECT_DIR$/src/controllers.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="291" selection-end="291" vertical-scroll-proportion="-9.642858" vertical-offset="0" max-vertical-offset="540">
+        <state line="7" column="58" selection-start="152" selection-end="152" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="648">
           <folding />
         </state>
       </provider>
@@ -497,23 +495,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/controllers.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="3" selection-start="452" selection-end="452" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="567">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/layout.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="6" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="810">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/home.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="19" selection-start="12" selection-end="19" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="868">
+        <state line="1" column="30" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="297">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="23" selection-start="141" selection-end="141" vertical-scroll-proportion="0.32846716" vertical-offset="0" max-vertical-offset="918">
           <folding />
         </state>
       </provider>
