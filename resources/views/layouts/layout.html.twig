@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="Silex Blog">
+    <meta name="author" content="Duikboot">
+
+    <title>My First Silex ...</title>
+    {% block stylesheet %}
+        {{  app.request.basepath }}
+        <link rel="stylesheet" type="text/css" href="http://localhost:8989/resources/assets/css/bootstrap.min.css">
+    {% endblock %}
+
+
+</head>
+
+<body>
+    <p>Later nog pleuts voor het menu hier..</p>
+    <div id="content">{% block content %}{% endblock %}</div>
+</body>
+</html>

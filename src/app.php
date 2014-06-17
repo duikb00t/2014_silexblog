@@ -10,6 +10,6 @@ $app->register(new Silex\Provider\TranslationServiceProvider(), array(
 ));
 
 $app->register(new \Silex\Provider\TwigServiceProvider(), array(
-   'twig.path'  =>  __DIR__.'/../resources/views',
+    'twig.path'  =>  __DIR__.'/../resources/views',
 
 ));
