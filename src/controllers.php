@@ -19,6 +19,7 @@ $app->get('about', function() use ($app) {
 $app->get('contact', function(\Symfony\Component\HttpFoundation\Request $request) use ($app) {
 
     // Some default data for when the form is displayed the first time.
+
     $data = [
         'name' => 'Your name',
         'email' => 'Your email'

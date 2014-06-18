@@ -1,12 +1,13 @@
 {% extends 'layouts/layout.html.twig' %}
 {% block content %}
 <h1>Contact us.</h1>
+    {% if form is defined %}
     <form action="#" method="post">
-        {% if form is defined %}
+
 
             {{ form_widget(form) }}
 
-        {% endif %}
+
         <input type="submit" name="submit" />
-    </form>
+    </form>{% endif %}
 {%  endblock %}
