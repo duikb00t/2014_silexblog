@@ -1,13 +1,31 @@
 {% extends 'layouts/layout.html.twig' %}
+
 {% block content %}
+
 <h1>Contact us.</h1>
-    {% if form is defined %}
-    <form action="#" method="post">
 
+    <form action="#" method="post" class="form">
 
-            {{ form_widget(form) }}
+        {{ form_start(form) }}
 
+        {{ form_errors(form) }}
+
+        <div>
+            {{ form_label(form.email) }}
+            {{ form_errors(form.email) }}
+            {{ form_widget(form.email,  {'attr': {'class': 'form-control'}}) }}
+        </div>
+
+        <div>
+            {{ form_label(form.name) }}
+            {{ form_errors(form.name) }}
+            {{ form_widget(form.name,  {'attr': {'class': 'form-control'}}) }}
+        </div>
+
+        {{ form_end(form) }}
 
         <input type="submit" name="submit" />
-    </form>{% endif %}
+
+    </form>
+
 {%  endblock %}

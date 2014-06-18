@@ -34,10 +34,13 @@ class ContactController {
 
         if($form->isValid()) {
             $data = $form->getData();
+
             // Do something with the data...
+
             // redirect somewhere
             return $app->redirect('contact');
         }
+
         return $app['twig']->render('contact.html.twig', array('form' => $form->createView()));
     }
 
